@@ -1,0 +1,22 @@
+Our paper discusses the various methods that are employed in predicting the trends in time series data which in our case happens to be sales data for mobile phones.
+
+Initially, we begin by exploring the various models that have been adopted for forecasting time
+series data.
+
+We looked at models such as Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM),
+Deep Neural Networks and support vector machines.
+
+So after some good amount of research work, we decided to analyze our data using a SLR, a MLR,
+a RFR, and a ARIMA.
+
+But before that, why do we need to have an analysis of the sales data? Why is it so important 
+for a merchant in a marketplace to have his/her sales data analyzed.
+
+This is because the merchnats could find out the products that seem to be really trendy and accordingly plan their sales strategy and the capitol that they would have to invest in order to have a successful campaign at the marketplace.  
+
+So our goal in this project was to try and forecast the future sales and also find out 
+the most influential factors that come into play during the prediction of sales with respect to a mobile phones sales dataset. 
+
+
+
+
