@@ -1,0 +1,24 @@
+Our paper discusses few methods that are employed in predicting the trends in mobile phone sales data.
+
+Initially, we begin by exploring methods that have already been adopted for such data.
+
+We looked at models such as decision trees , neural network models and support vector machines.
+
+So after some research work, we decided to analyze our data using SLR, MLR,
+ RFR, and ARIMA models.
+ 
+* Talk about dataset *
+
+But before that, why do we need to have an analysis of the sales data? Why is it so important 
+for a merchant in a marketplace to have his/her sales data analyzed.
+
+This is because the merchnats could find out the products that seem to be really trendy and accordingly plan their sales strategy and the capitol that they would have to invest in order to have a successful campaign at the marketplace.  
+
+In a global pandemic, it is all the more important for merchants to thoroughly ananlyze their assets and make informed decisions.
+
+So our goal in this project was to try and build models that predict the future sales and give is insights on
+the influence of factors that come into play during the prediction of sales with respect to a mobile phones sales dataset. 
+
+
+
+

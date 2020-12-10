@@ -1,0 +1,23 @@
+Now that we have had our introduction, let us move on to discussing the actual analysis.
+
+The notebook being shared is the same that we have included in our final report, let us take a look.
+
+We begin, of course, by doing some initial cleaning. We judge the number of Null values in our data using plots and decide to remove them due to their small numbers.
+
+After which we illustrate various plots that serve the purpose judging what the data looks like , to just having fun with it overall. * talk about a few plots and correlation matrix *
+
+Standardize the data.
+
+Now before building models , we wanted to process the data more and also only observe a subset of data during analysis . This subset would correspond to the data 
+about a particular product since it makes more sense to do so. We accompolish this using a function that takes in the product name as a parameter and returns the processed subset.
+
+Using this processed subset, we trained 4 models, SLR ,MLR , RF and ARIMA.
+
+SLR was mainly used to judge correlation... makes sense.
+
+We used R2_SCORE, MSE and MAE to evaluate the model performaces on test data.
+
+Used RF to bring out importance of features (with and without)
+F_regression
+
+Chose the best model and conducted K fold (with and without)
